@@ -15,11 +15,16 @@ The model allows users to experiment with various parameters like:
 
 ## Installation
 To install the dependencies use pip and the requirements.txt in this directory. e.g.
+
+```
 $ pip install -r requirements.txt
+```
 
 To run the model interactively:
 
+```
 $ solara run app.py
+```
 
 
 ## Files
